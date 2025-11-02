@@ -1,8 +1,11 @@
-<h2 align="left">Olá! Eu sou o Pietro, um estudante de programação!</h2>
+<h2 align="left">Olá! Eu sou o Pietro!</h2>
 
 ###
 
-<h4 align="left">Eu estudo pela internet e pelo curso técnico de Desenvolvimento de Sistemas na ETEC Rosa Perrone Scavone - Itatiba/SP.</h4>
+<h4 align="left">Eu estudo pelo curso técnico de Desenvolvimento de Sistemas na ETEC Rosa Perrone Scavone - Itatiba/SP.</h4>
+<h4 align="left">- 🌱 Eu estou atualmente aprendendo java e programação competitiva</h4>
+<h4 align="left">- 📫 E-mail: pietrocardosof@gmail.com</h4>
+<h4 align="left">- 😄 Pronomes: ele/dele</h4>
 
 ###
 
