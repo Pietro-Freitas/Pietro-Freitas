@@ -5,7 +5,7 @@
 <h4 align="left">Eu estudo pelo curso técnico de Desenvolvimento de Sistemas na ETEC Rosa Perrone Scavone - Itatiba/SP.</h4>
 <h4 align="left">- 🌱 Eu estou atualmente aprendendo java e  técnicas de programação competitiva</h4>
 <h4 align="left">- 📫 E-mail: pietrocardosof@gmail.com</h4>
-<h4 align="left">- 💻Cursos: - Mundo 1,2 e 3 de python do curso em vídeo. - desf 2025 ark olimpíadas (matemática).</h4>
+<h4 align="left">- 💻Cursos: - Mundo 1,2 e 3 de python do curso em vídeo. - desf 2025 ark olimpíadas (matemática).-HTML Básico e Css básico do jornada do Dev.</h4>
 <h4 align="left">📚Livros: - Competitive Programmer's Handbook(CPH). Lendo: Refatoração: Aperfeiçoando o design de códigos exjstentes.</h4>
 
 ##
