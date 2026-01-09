@@ -1,56 +1,66 @@
-<h2 align="left">Olá! Eu sou o Pietro!</h2>
-
-###
-
-<h4 align="left">Eu estudo pelo curso técnico de Desenvolvimento de Sistemas na ETEC Rosa Perrone Scavone - Itatiba/SP.</h4>
-<h4 align="left">- 🌱 Eu estou atualmente aprendendo java e  técnicas de programação competitiva</h4>
-<h4 align="left">- 📫 E-mail: pietrocardosof@gmail.com</h4>
-<h4 align="left">- 💻Cursos: - Mundo 1,2 e 3 de python do curso em vídeo. - desf 2025 ark olimpíadas (matemática).-HTML Básico e Css básico do jornada do Dev.</h4>
-<h4 align="left">📚Livros: - Competitive Programmer's Handbook(CPH). Lendo: Refatoração: Aperfeiçoando o design de códigos existentes.</h4>
-
-##
-
 <div align="center">
-  <a href="https://github.com/Pietro-Freitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pietro-Freitas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pietro-Freitas&layout=compact&langs_count=7&theme=react"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Pietro+Cardoso;Desenvolvedor+Java+Backend;Estudante+de+Sistemas" alt="Typing SVG" />
 </div>
-
-
-##
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-##
-
-<div align=center>
-  
- <img src="https://raw.githubusercontent.com/Pietro-Freitas/Pietro-Freitas/output/snake.svg" alt="Snake animation" />
-  
-</div>
-
-##
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pietro-cardoso-1b53a3397/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:pietrocardosof@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/_.pietro_cardoso/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
+</div>
+
+<hr/>
+
+### 👨‍💻 Sobre Mim
+
+Sou estudante técnico em **Desenvolvimento de Sistemas na ETEC Rosa Perrone Scavone**. Atualmente, meu foco é me especializar no ecossistema **Java** para criar soluções robustas e escaláveis.
+
+* 🔭 **Atualmente trabalhando em:** Projetos com Java e Spring Boot.
+* 🌱 **Aprendendo:** Microsserviços, Docker, AWS e Arquitetura de Software.
+* 📚 **Lendo:** *Refactoring: Improving the Design of Existing Code* (Martin Fowler).
+* 🏆 **Interesses:** Programação Competitiva (CPH), Algoritmos e Clean Code.
+
+---
+
+### 🚀 Tech Stack
+
+Aqui estão as tecnologias que utilizo e estudo, organizadas por área de atuação:
+
+#### **Backend**
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</div>
+
+#### **Frontend**
+<div style="display: inline_block">
+  <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
+</div>
+
+#### **DevOps & Tools**
+<div style="display: inline_block">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pietro-Freitas/Pietro-Freitas/output/snake.svg" alt="Snake animation" />
 </div>
