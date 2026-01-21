@@ -14,16 +14,16 @@
   </a>
 </div>
 
-<hr/>
+---
 
-### 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre mim
 
-Sou estudante técnico em **Desenvolvimento de Sistemas na ETEC Rosa Perrone Scavone**. Atualmente, meu foco é me especializar no ecossistema **Java** para criar soluções robustas e escaláveis.
-
-* 🔭 **Atualmente trabalhando em:** Projetos com Java e Spring Boot.
-* 🌱 **Aprendendo:** Microsserviços, Docker, AWS e Arquitetura de Software.
-* 📚 **Lendo:** *Refactoring: Improving the Design of Existing Code* (Martin Fowler).
-* 🏆 **Interesses:** Programação Competitiva (CPH), Algoritmos e Clean Code.
+- 🎓 **3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas**  
+  na **ETEC Rosa Perrone Scavone**.
+- 🧠 Focado em **backend com Java e Spring Boot**, bancos de dados e inteligência artificial.
+- 🧩 Curto **algoritmos, matemática e programação competitiva (CPH)**.
+- 📚 Estudando **microsserviços, Docker, AWS e arquitetura de software**.
+- 🎯 Objetivo: conquistar meu **primeiro estágio como desenvolvedor backend**.
 
 ---
 
@@ -61,6 +61,7 @@ Aqui estão as tecnologias que utilizo e estudo, organizadas por área de atuaç
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img align="center" alt="n8n" height="40" width="40" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" />
 </div>
 
 ---
@@ -68,7 +69,12 @@ Aqui estão as tecnologias que utilizo e estudo, organizadas por área de atuaç
 ### 📊 GitHub Stats
 
 
+<div align="center">
 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pietro-Freitas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro-Freitas&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Pietro-Freitas/Pietro-Freitas/output/snake.svg" alt="Snake animation" />
 </div>
