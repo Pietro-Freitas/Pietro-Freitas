@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Pietro+Cardoso;Desenvolvedor+Java+Backend;Estudante+de+Sistemas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Pietro+Cardoso;Estudante+de+Sistemas" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,10 +20,9 @@
 
 - 🎓 **3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas**  
   na **ETEC Rosa Perrone Scavone**.
-- 🧠 Focado em **backend com Java e Spring Boot**, bancos de dados e inteligência artificial.
+- 🧠 Focado em **Spring Boot, análise de dados** e inteligência artificial.
 - 🧩 Curto **algoritmos, matemática e programação competitiva (CPH)**.
-- 📚 Estudando **microsserviços, Docker, AWS e arquitetura de software**.
-- 🎯 Objetivo: conquistar meu **primeiro estágio como desenvolvedor backend**.
+- 📚 Estudando **análise de dados, machine learning e arquitetura de software**.
 
 ---
 
