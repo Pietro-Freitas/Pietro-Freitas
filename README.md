@@ -20,9 +20,9 @@
 
 - 🎓 **3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas**  
   na **ETEC Rosa Perrone Scavone**.
-- 🧠 Focado em **Spring Boot, análise de dados** e inteligência artificial.
+- 🧠 Focado em **Spring Boot, cibersegurança** e inteligência artificial.
 - 🧩 Curto **algoritmos, matemática e programação competitiva (CPH)**.
-- 📚 Estudando **análise de dados, machine learning e arquitetura de software**.
+- 📚 Estudando **princípios de cibersegurança e arquitetura de software**.
 
 ---
 
@@ -62,8 +62,7 @@ Aqui estão as tecnologias que utilizo e estudo, organizadas por área de atuaç
 <div style="display: inline_block">
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-  <img align="center" alt="n8n" height="40" width="40" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" />
+  <img align="center" alt="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />>
 </div>
 
 ---
